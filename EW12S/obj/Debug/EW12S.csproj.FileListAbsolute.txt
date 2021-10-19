@@ -1,0 +1,137 @@
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\EW12S\obj\Debug\EW12S.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\EW12S\obj\Debug\EW12S.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\EW12S\obj\Debug\EW12S.frmMain.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\EW12S\obj\Debug\EW12S.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\EW12S\obj\Debug\EW12S.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\EW12S\obj\Debug\EW12S.frmMain.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\EW12S\obj\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\EW12S\obj\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\EW12S\obj\Debug\EW12S.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\EW12S\obj\Debug\EW12S.frmMain.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\EW12S\obj\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\EW12S\obj\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\EW12S\obj\Debug\EW12S.frmMain.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\EW12S\obj\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\EW12S\obj\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\EW12S\obj\Debug\EW12S.FrmSetting.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\EW12S\obj\Debug\EW12S.frmMain.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\EW12S\obj\Debug\EW12S.FrmSetting.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\EW12S\obj\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\EW12S\obj\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.frmMain.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.FrmSetting.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csprojAssemblyReference.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.frmMain.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.FrmSetting.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.exe
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.pdb
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csprojAssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.frmMain.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.FrmSetting.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\EW12S\obj\Debug\EW12S.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.frmMain.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.FrmSetting.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.pdb
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.frmMain.resources
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.FrmSetting.resources
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.exe
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.pdb
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\EW12S\obj\Debug\EW12S.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\EW12S.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\EW12S.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\EW12S.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.FrmGetMACaddress.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.frmMain.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.FrmSetting.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW12S\obj\Debug\EW12S.pdb

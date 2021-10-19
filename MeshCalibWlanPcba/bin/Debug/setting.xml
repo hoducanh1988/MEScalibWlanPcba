@@ -1,0 +1,17 @@
+﻿<settingDataBinding xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <instrumentType>MT8870A</instrumentType>
+  <GPIB>TCPIP0::192.168.3.2::inst0::INSTR</GPIB>
+  <powerTransmit>-20</powerTransmit>
+  <NOM>10</NOM>
+  <torStandard>0.5</torStandard>
+  <torMax>1.0</torMax>
+  <passRate>80</passRate>
+  <filePathloss>G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\bin\Debug\StationCal_pathloss_IMAP_V2 _02Apr2021.xml</filePathloss>
+  <portTransmitterKit>PORT1</portTransmitterKit>
+  <portReceiverKit1>PORT3</portReceiverKit1>
+  <portReceiverKit2>PORT4</portReceiverKit2>
+  <portTransmitterAtt>PORT1</portTransmitterAtt>
+  <portReceiverAtt1>PORT3</portReceiverAtt1>
+  <portReceiverAtt2>PORT4</portReceiverAtt2>
+  <Connector>0.3</Connector>
+</settingDataBinding>

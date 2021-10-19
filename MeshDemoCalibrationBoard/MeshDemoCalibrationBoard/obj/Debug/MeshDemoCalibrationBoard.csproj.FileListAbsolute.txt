@@ -1,0 +1,143 @@
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\bin\Debug\MeshDemoCalibrationBoard.exe.config
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\bin\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\bin\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.cache
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.lref
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.g.resources
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.Properties.Resources.resources
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\chien\source\repos\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\bin\Debug\MeshDemoCalibrationBoard.exe.config
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\bin\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\bin\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.g.resources
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\bin\Debug\MeshDemoCalibrationBoard.exe.config
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\bin\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\bin\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csprojAssemblyReference.cache
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.g.cs
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\App.g.cs
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.cache
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.lref
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.baml
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.g.resources
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.Properties.Resources.resources
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.GenerateResource.cache
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CoreCompileInputs.cache
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CopyComplete
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\AnhHD\Desktop\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\chien\source\repos\06. MESH\Support\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csprojAssemblyReference.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe.config
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.pdb
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csprojAssemblyReference.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.g.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.exe
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.g.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.g.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe.config
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.pdb
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.AssemblyReference.cache
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.g.cs
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\App.g.cs
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.cache
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.lref
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.baml
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.g.resources
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.Properties.Resources.resources
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.GenerateResource.cache
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CoreCompileInputs.cache
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CopyComplete
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.exe
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\MeshDemoCalibrationBoard.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.g.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\obj\Debug\MeshDemoCalibrationBoard.pdb

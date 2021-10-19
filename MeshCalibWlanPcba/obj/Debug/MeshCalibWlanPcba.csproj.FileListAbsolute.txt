@@ -1,0 +1,234 @@
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\App.g.cs
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.3.exe.config
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.3.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.3.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3_MarkupCompile.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3_MarkupCompile.lref
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3.g.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.3.exe.config
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.3.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.3.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\App.g.cs
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3_MarkupCompile.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3_MarkupCompile.lref
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3.g.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3.exe
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.3.pdb
+C:\Users\AnhHD\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.3\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.4.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.4.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.4.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4_developing\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.4.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.4.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.4.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.4.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.4\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_RDT_NotYet\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5_12c\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe.config
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.lref
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.g.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+C:\Users\chien\source\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csprojAssemblyReference.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe.config
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csprojAssemblyReference.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.g.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+G:\Backup_Tool_Test\repos\06. MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.g.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.5\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.5.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.6.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.6.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.6.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6.g.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6.pdb
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.6.exe.config
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.6.exe
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba_Ver2.0.0.6.pdb
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\App.g.cs
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6_MarkupCompile.cache
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6_MarkupCompile.lref
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6.g.resources
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6.exe
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_Ver2.0.0.6.pdb
+C:\Users\chien\Desktop\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\NationalInstruments.VisaNS.dll
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\bin\Debug\NationalInstruments.VisaNS.xml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba_Ver2.0.0.6\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\MeshCalibWlanPcba.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\NAudio.dll
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\UtilityPack.dll
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\NationalInstruments.VisaNS.dll
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\NAudio.xml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\NationalInstruments.VisaNS.xml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.g.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\obj\Debug\MeshCalibWlanPcba.pdb

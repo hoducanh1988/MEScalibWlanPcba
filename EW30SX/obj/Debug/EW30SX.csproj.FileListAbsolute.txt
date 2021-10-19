@@ -1,0 +1,12 @@
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW30SX\obj\Debug\EW30SX.csproj.AssemblyReference.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW30SX\obj\Debug\EW30SX.frmMain.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW30SX\obj\Debug\EW30SX.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW30SX\obj\Debug\EW30SX.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW30SX\obj\Debug\EW30SX.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\EW30SX.exe.config
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\EW30SX.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\MeshCalibWlanPcba\bin\Debug\EW30SX.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW30SX\obj\Debug\EW30SX.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW30SX\obj\Debug\EW30SX.exe
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW30SX\obj\Debug\EW30SX.pdb
+G:\Backup_Tool_Test\repos\06.MESH\MeshCalibWlanPcba\EW30SX\obj\Debug\EW30SX.FrmSetting.resources

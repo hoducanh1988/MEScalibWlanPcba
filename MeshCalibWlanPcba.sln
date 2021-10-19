@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshCalibWlanPcba", "MeshCalibWlanPcba\MeshCalibWlanPcba.csproj", "{A36318FE-BBDE-4E7B-AB9D-DEA69AA35D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EW12S", "EW12S\EW12S.csproj", "{A889ED8A-6965-4FB7-AABD-BD0D8CDAAC48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EW12CG", "EW12CG\EW12CG.csproj", "{4090EF43-C103-483A-AC7C-38FD198B2931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EW12SG", "EW12SG\EW12SG.csproj", "{CDC1C131-B265-4386-9A17-8CA2C93F0C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EW12C", "EW12C\EW12C.csproj", "{5EB353A7-44EE-462C-8195-B30A2E75131C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshDemoCalibrationBoard", "MeshDemoCalibrationBoard\MeshDemoCalibrationBoard\MeshDemoCalibrationBoard.csproj", "{16000033-79B9-44AC-B6DB-E0E4CEA7DFEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EW30SX", "EW30SX\EW30SX.csproj", "{8B79694F-03E3-48A2-AC49-B3F4FB9BEDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A36318FE-BBDE-4E7B-AB9D-DEA69AA35D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36318FE-BBDE-4E7B-AB9D-DEA69AA35D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36318FE-BBDE-4E7B-AB9D-DEA69AA35D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36318FE-BBDE-4E7B-AB9D-DEA69AA35D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A889ED8A-6965-4FB7-AABD-BD0D8CDAAC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A889ED8A-6965-4FB7-AABD-BD0D8CDAAC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A889ED8A-6965-4FB7-AABD-BD0D8CDAAC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A889ED8A-6965-4FB7-AABD-BD0D8CDAAC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4090EF43-C103-483A-AC7C-38FD198B2931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4090EF43-C103-483A-AC7C-38FD198B2931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4090EF43-C103-483A-AC7C-38FD198B2931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4090EF43-C103-483A-AC7C-38FD198B2931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC1C131-B265-4386-9A17-8CA2C93F0C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC1C131-B265-4386-9A17-8CA2C93F0C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC1C131-B265-4386-9A17-8CA2C93F0C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC1C131-B265-4386-9A17-8CA2C93F0C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB353A7-44EE-462C-8195-B30A2E75131C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB353A7-44EE-462C-8195-B30A2E75131C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB353A7-44EE-462C-8195-B30A2E75131C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB353A7-44EE-462C-8195-B30A2E75131C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16000033-79B9-44AC-B6DB-E0E4CEA7DFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16000033-79B9-44AC-B6DB-E0E4CEA7DFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16000033-79B9-44AC-B6DB-E0E4CEA7DFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16000033-79B9-44AC-B6DB-E0E4CEA7DFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B79694F-03E3-48A2-AC49-B3F4FB9BEDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B79694F-03E3-48A2-AC49-B3F4FB9BEDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B79694F-03E3-48A2-AC49-B3F4FB9BEDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B79694F-03E3-48A2-AC49-B3F4FB9BEDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D7D3E9-157D-49FE-93A7-15CA4D2E79DA}
+	EndGlobalSection
+EndGlobal
